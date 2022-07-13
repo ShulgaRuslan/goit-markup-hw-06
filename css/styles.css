@@ -304,7 +304,7 @@ fill:var(--accent-color);
     bottom: 0;
     right: 1px;
     left: 1px;   
-    transition: opacity 250ms var(--timing); 
+    transition: 250ms var(--timing); 
 }
 .close:hover {
   cursor: pointer;
